@@ -230,10 +230,8 @@ This project demonstrates a complete **hardware realization of AES-128 encryptio
 
 **Akash Sasmal**
 Backend & Hardware Design Engineer | VLSI & FPGA Enthusiast
-📧 *[[your.email@example.com](mailto:your.email@example.com)]*
-🔗 GitHub: *github.com/akashsasmal*
-🔗 LinkedIn: *linkedin.com/in/akashsasmal*
+📧 *[[akash.aios.10@gmail.com](mailto:your.email@example.com)]*
+🔗 GitHub: *github.com/Akash-10-h*
 
 ---
 
-Would you like me to now create the **full Verilog design structure** (with each module: SubBytes, ShiftRows, MixColumns, KeyExpansion, FSM, and Top) so you can directly run it in **Vivado/ModelSim** and include the code + waveform in your portfolio?
